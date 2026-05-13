@@ -7,7 +7,7 @@ Personal zsh configuration. Works on macOS and Linux.
 Clone into `~/.zsh_configs` and run the installer:
 
 ```sh
-git clone <repo-url> "$HOME/.zsh_configs"
+git clone https://github.com/inakimurillo/zsh_config.git "$HOME/.zsh_configs"
 cd "$HOME/.zsh_configs"
 ./install.sh
 ```
